@@ -1,4 +1,5 @@
-### Hello there 👋, Welcome to my profile
+### Hello there 👋,
+### I'm Janaka A Full-Stack Developer, Freelancer
 <div align="center">
 	<br>
 		<img src="mybanner.svg">
