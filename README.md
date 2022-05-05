@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋, Welcome to my profile
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <!--
 **JcPerera/JcPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
