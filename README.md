@@ -6,7 +6,7 @@
 	<br>
 </div>
 
-Follow me on Linkedin! [Janaka Perera](https://www.linkedin.com/in/janaka-perera-704704157/)
+Follow me on Linkedin! [Janaka Perera](https://www.linkedin.com/in/janaka-chathuranga-perera-704704157/)
 
 Email Me: [jcperera.online@gmail.com](jcperera.online@gmail.com)
 
